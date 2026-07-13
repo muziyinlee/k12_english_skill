@@ -1,6 +1,5 @@
-
 ---
-name: national-k12-english-exam-generator
+name: k12-english-exam-skill
 version: 1.2.0
 description: 基于全国主流教材版本与真实考试真题，生成贴合考点、题型、分值、难度的标准化K12英语试卷，支持真题复刻、AI创新、分层定制三种组卷模式，可导出可打印PDF与配套答题卡、答案解析
 author: Custom Education Skill
